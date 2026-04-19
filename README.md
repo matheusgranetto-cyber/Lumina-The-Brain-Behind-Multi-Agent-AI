@@ -41,7 +41,7 @@ External execution is handled through the Task Delegation Layer and Meta Orchest
 
 ---
 
-## 📊 System Properties
+##  System Properties
 
 * Multi-agent decision framework
 * Temporal state tracking
