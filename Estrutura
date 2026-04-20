@@ -1,0 +1,26 @@
+lumina/
+│
+├── main.py
+├── demo/
+│   └── run_demo.py
+│
+├── core/
+│   ├── brain.py
+│   ├── decision_engine.py
+│   ├── observer.py
+│   ├── regime_fusion.py
+│   ├── temporal_memory.py
+│   ├── goal_system.py
+│
+├── agents/
+│   ├── base.py
+│   ├── logic_agent.py
+│   ├── emotion_agent.py
+│   ├── curiosity_agent.py
+│   ├── memory_agent.py
+│
+├── orchestration/
+│   ├── meta_orchestrator.py
+│   ├── ai_delegation.py
+│
+└── README.md
